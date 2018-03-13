@@ -1,0 +1,10 @@
+/* 選擇一個 HTML標籤，讓它具有樣式 */
+p{
+    color: blue;
+    text-align: center;
+}
+
+h1{
+    color: red;
+}
+
